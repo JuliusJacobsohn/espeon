@@ -26,7 +26,7 @@ deluxeTreasureBoxItemSetIndex: 4
 balanceFloorInfoByte40: 1
 balanceFloorInfoByte41: 12
 minItemDensity: 3
-maxItemDensity: 4
+maxItemDensity: 50
 buriedItemSetIndex: 0
 maxBuriedItems: 0
 balanceFloorInfoByte46: 250
