@@ -1,0 +1,16 @@
+﻿id: julius.espeon
+version: 0.0.1
+target: RTDX
+name: Espeon
+author: Julius
+editorVersion: 0.1.2.0
+mods:
+- id: julius.espeon.default
+  target: RTDX
+  name: Default
+  enabled: true
+  scripts: []
+enableCodeInjection: false
+codeInjectionRepository: tech-ticks/hyperbeam
+codeInjectionVersion: v0.0.1-alpha
+codeInjectionReleaseType: debug
