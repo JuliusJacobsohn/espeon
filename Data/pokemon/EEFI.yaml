@@ -1,0 +1,147 @@
+﻿features: Male, Female, BaseForm, Active
+id: EEFI
+pokedexNumber: 196
+taxon: 122
+ability1: ABILITY_SYNCHRO
+ability2: NONE
+hiddenAbility: ABILITY_MAGICMIRROR
+type1: PSYCHIC
+type2: NONE
+learnableTMs:
+- BROKENMACHINE_PSYCHOSHOCK
+- BROKENMACHINE_MEISOU
+- BROKENMACHINE_DOKUDOKU
+- BROKENMACHINE_MEZAMERUPOWER
+- BROKENMACHINE_NIHONBARE
+- BROKENMACHINE_HAKAIKOUSEN
+- BROKENMACHINE_HIKARINOKABE
+- BROKENMACHINE_MAMORU
+- BROKENMACHINE_AMAGOI
+- BROKENMACHINE_YATSUATARI
+- BROKENMACHINE_ONGAESHI
+- BROKENMACHINE_PSYCHOKINESIS
+- BROKENMACHINE_SHADOWBALL
+- BROKENMACHINE_KAGEBUNSHIN
+- BROKENMACHINE_REFLECTOR
+- BROKENMACHINE_KARAGENKI
+- BROKENMACHINE_NEMURU
+- BROKENMACHINE_MEROMERO
+- BROKENMACHINE_RINSHOU
+- BROKENMACHINE_ECHOVOICE
+- BROKENMACHINE_GIGAIMPACT
+- BROKENMACHINE_JIKOANJI
+- BROKENMACHINE_YUMEKUI
+- BROKENMACHINE_KUSAMUSUBI
+- BROKENMACHINE_IBARU
+- BROKENMACHINE_NEGOTO
+- BROKENMACHINE_MIGAWARI
+- BROKENMACHINE_TRICKROOM
+- BROKENMACHINE_MAGICALSHINE
+- BROKENMACHINE_NAISHOBANASHI
+- BROKENMACHINE_YOBI_10
+levelupLearnset:
+- level: 1
+  move: NENRIKI
+- level: 1
+  move: TEDASUKE
+- level: 1
+  move: TAIATARI
+- level: 1
+  move: SHIPPOWOFURU
+- level: 5
+  move: SUNAKAKE
+- level: 9
+  move: TSUBURANAHITOMI
+- level: 13
+  move: DENKOUSEKKA
+- level: 17
+  move: SPEEDSTAR
+- level: 20
+  move: PSYCHEKOUSEN
+- level: 25
+  move: MIRAIYOCHI
+- level: 29
+  move: JIKOANJI
+- level: 33
+  move: ASANOHIZASHI
+- level: 37
+  move: PSYCHOKINESIS
+- level: 41
+  move: TOTTEOKI
+- level: 45
+  move: POWERSWAP
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+unknown62: 27
+unknown66: 231
+boostedRecruitRate: 82
+baseRecruitRate: -24
+unknown6E: 161
+unknown70: 161
+unknown72: 65
+baseHitPoints: 38
+baseAttack: 8
+baseSpecialAttack: 6
+baseDefense: 6
+baseSpecialDefense: 8
+baseSpeed: 8
+unknown80: 171
+evolvesFrom: IIBUI
+experienceEntry: 69
+unknown8B: 2
+unknown8C: 2
+unknown8D: 1
+unknown8E: 1
+unknown95: 1
+unknown96: 10
+size: 1
+megaRelatedProperty: 0
+someMinimumLevel: 1
+someMaximumLevel: 26
+recruitPrereq: ''
+megaEvolutions:
+  item1: NONE
+  item2: NONE
+evolutionBranches: []
+pokemonGraphicsDatabaseEntryIds:
+- 216
+- 0
+- 1013
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+campIndex: HENGENO_MORI
