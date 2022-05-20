@@ -10,7 +10,7 @@ mods:
   name: Default
   enabled: true
   scripts: []
-enableCodeInjection: false
+enableCodeInjection: true
 codeInjectionRepository: tech-ticks/hyperbeam
 codeInjectionVersion: v0.0.1-alpha
 codeInjectionReleaseType: debug
