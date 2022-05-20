@@ -1,0 +1,75 @@
+﻿id: D001
+features: _Bit2, _Bit5, _Bit6, _Bit7, AutoRevive, _Bit10, _Bit11, WildPokemonRecruitable, Scanner, Radar
+dataInfoShort0A: 1
+sortKey: 10
+dataInfoByte13: 100
+maxItems: 64
+maxTeammates: 3
+dataInfoByte17: 32
+dataInfoByte18: 1
+dataInfoByte19: 60
+accessibleFloorCount: 3
+unknownFloorCount: 5
+totalFloorCount: 8
+nameId: 1
+pokemonStats:
+- creatureIndex: POPPO
+  xpYield: 10
+  hitPoints: 13
+  attack: 9
+  specialAttack: 7
+  defense: 3
+  specialDefense: 3
+  speed: 7
+  strongFoe: false
+  level: 5
+- creatureIndex: TAMATAMA
+  xpYield: 11
+  hitPoints: 15
+  attack: 10
+  specialAttack: 9
+  defense: 7
+  specialDefense: 7
+  speed: 6
+  strongFoe: false
+  level: 5
+- creatureIndex: HIMANATTSU
+  xpYield: 8
+  hitPoints: 11
+  attack: 7
+  specialAttack: 5
+  defense: 4
+  specialDefense: 4
+  speed: 6
+  strongFoe: false
+  level: 5
+- creatureIndex: KEMUSSO_KARA
+  xpYield: 9
+  hitPoints: 9
+  attack: 8
+  specialAttack: 7
+  defense: 5
+  specialDefense: 4
+  speed: 6
+  strongFoe: false
+  level: 5
+- creatureIndex: KEMUSSO_MAYU
+  xpYield: 9
+  hitPoints: 9
+  attack: 8
+  specialAttack: 7
+  defense: 5
+  specialDefense: 4
+  speed: 6
+  strongFoe: false
+  level: 5
+- creatureIndex: KAKUREON
+  xpYield: 10
+  hitPoints: 486
+  attack: 205
+  specialAttack: 206
+  defense: 189
+  specialDefense: 179
+  speed: 189
+  strongFoe: false
+  level: 66
