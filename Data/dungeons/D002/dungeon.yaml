@@ -1,0 +1,95 @@
+﻿id: D002
+features: _Bit2, _Bit5, _Bit6, _Bit7, AutoRevive, _Bit10, _Bit11, WildPokemonRecruitable, Scanner, Radar
+dataInfoShort0A: 2
+sortKey: 20
+dataInfoByte13: 100
+maxItems: 64
+maxTeammates: 3
+dataInfoByte17: 32
+dataInfoByte18: 2
+dataInfoByte19: 50
+accessibleFloorCount: 5
+unknownFloorCount: 6
+totalFloorCount: 9
+nameId: 2
+pokemonStats:
+- creatureIndex: KORATTA
+  xpYield: 8
+  hitPoints: 15
+  attack: 10
+  specialAttack: 8
+  defense: 6
+  specialDefense: 6
+  speed: 18
+  strongFoe: false
+  level: 7
+- creatureIndex: NIDORAN_F
+  xpYield: 9
+  hitPoints: 20
+  attack: 11
+  specialAttack: 8
+  defense: 9
+  specialDefense: 9
+  speed: 14
+  strongFoe: false
+  level: 7
+- creatureIndex: BIRIRIDAMA
+  xpYield: 9
+  hitPoints: 15
+  attack: 7
+  specialAttack: 12
+  defense: 6
+  specialDefense: 6
+  speed: 21
+  strongFoe: false
+  level: 7
+- creatureIndex: EREKIDDO
+  xpYield: 11
+  hitPoints: 18
+  attack: 12
+  specialAttack: 13
+  defense: 8
+  specialDefense: 10
+  speed: 21
+  strongFoe: false
+  level: 7
+- creatureIndex: POCHIENA
+  xpYield: 10
+  hitPoints: 18
+  attack: 12
+  specialAttack: 6
+  defense: 8
+  specialDefense: 8
+  speed: 15
+  strongFoe: false
+  level: 7
+- creatureIndex: PURASURU
+  xpYield: 14
+  hitPoints: 20
+  attack: 11
+  specialAttack: 13
+  defense: 10
+  specialDefense: 10
+  speed: 21
+  strongFoe: false
+  level: 8
+- creatureIndex: MAINAN
+  xpYield: 13
+  hitPoints: 20
+  attack: 11
+  specialAttack: 12
+  defense: 8
+  specialDefense: 8
+  speed: 21
+  strongFoe: false
+  level: 8
+- creatureIndex: KAKUREON
+  xpYield: 10
+  hitPoints: 486
+  attack: 206
+  specialAttack: 189
+  defense: 179
+  specialDefense: 189
+  speed: 203
+  strongFoe: false
+  level: 66

@@ -1,0 +1,135 @@
+﻿index: 3
+balanceFloorInfoShort02: 1
+event: ''
+turnLimit: 1200
+minMoneyStackSize: 10
+maxMoneyStackSize: 36
+dungeonMapDataInfoIndex: 2
+nameId: 2
+balanceFloorInfoByte2D: 1
+balanceFloorInfoByte2E: 1
+balanceFloorInfoByte2F: 71
+balanceFloorInfoShort30: 1
+balanceFloorInfoShort32: 0
+balanceFloorInfoByte34: 40
+balanceFloorInfoByte35: 40
+roomCount: 5
+balanceFloorInfoByte37: 20
+balanceFloorInfoByte38: 0
+balanceFloorInfoByte39: 0
+floorItemSetIndex: 0
+kecleonShopItemSetIndex: 1
+possibleItemSetIndex3C: 2
+normalTreasureBoxItemSetIndex: 3
+monsterHouseItemSetIndex: 13
+deluxeTreasureBoxItemSetIndex: 4
+balanceFloorInfoByte40: 1
+balanceFloorInfoByte41: 12
+minItemDensity: 3
+maxItemDensity: 4
+buriedItemSetIndex: 0
+maxBuriedItems: 0
+balanceFloorInfoByte46: 250
+balanceFloorInfoByte47: 0
+kecleonShopChance: 0
+balanceFloorInfoByte49: 5
+balanceFloorInfoByte4A: 9
+minTrapDensity: 4
+maxTrapDensity: 4
+minEnemyDensity: 2
+maxEnemyDensity: 3
+balanceFloorInfoByte4F: 1
+balanceFloorInfoByte50: 25
+balanceFloorInfoByte51: 50
+mysteryHouseChance: 0
+mysteryHouseSize: 0
+invitationIndex: 0
+monsterHouseChance: 0
+balanceFloorInfoByte56: 1
+balanceFloorInfoByte57: 0
+balanceFloorInfoByte58: 1
+weather: HARE
+balanceFloorInfoBytes5Ato61:
+- 0
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+isBossFloor: false
+trapWeights:
+  TRAP_DORO: 0
+  TRAP_KUTTSUKI: 0
+  TRAP_YOBIYOSE: 0
+  TRAP_OTOSHIANA: 0
+  TRAP_WARP: 0
+  TRAP_TOPPUU: 0
+  TRAP_GURUGURU: 0
+  TRAP_BAKUSUI: 0
+  TRAP_YADON: 0
+  TRAP_FUIN: 0
+  TRAP_DOKUBARI: 0
+  TRAP_BAKUHA: 0
+  TRAP_DAIBAKUHA: 0
+  TRAP_WAZAHERI: 0
+  TRAP_IGAGURI: 0
+  TRAP_FUSHIGINAYUKA: 60
+  TRAP_POKEMON: 0
+  TRAP_MAKIBISHI: 0
+  TRAP_STEALTHROCK: 0
+  TRAP_DOKUBISHI: 0
+  TRAP_HARAHERI: 0
+  TRAP_KOROBI: 0
+  TRAP_YUBIFURI: 0
+  TRAP_ONNEN: 0
+  TRAP_WAZA_DEVELOP: 0
+  TRAP_KIRAKIRA: 0
+  TRAP_OUGON: 0
+  TRAP_BETOBETA: 0
+  TRAP_RINGO: 0
+  TRAP_GIKUSHAKU: 0
+  TRAP_KIRAKIRAYUKA_MEGA: 0
+  TRAP_AMBUSH_MAGGYO: 0
+spawns:
+- statsIndex: KORATTA
+  spawnRate: 50
+  isSpecial: false
+  recruitmentLevel: 7
+  byte0B: 0
+- statsIndex: NIDORAN_F
+  spawnRate: 50
+  isSpecial: false
+  recruitmentLevel: 7
+  byte0B: 0
+- statsIndex: BIRIRIDAMA
+  spawnRate: 50
+  isSpecial: false
+  recruitmentLevel: 7
+  byte0B: 0
+- statsIndex: EREKIDDO
+  spawnRate: 50
+  isSpecial: false
+  recruitmentLevel: 7
+  byte0B: 0
+- statsIndex: PURASURU
+  spawnRate: 25
+  isSpecial: false
+  recruitmentLevel: 7
+  byte0B: 0
+- statsIndex: MAINAN
+  spawnRate: 25
+  isSpecial: false
+  recruitmentLevel: 7
+  byte0B: 0
+- statsIndex: KAKUREON
+  spawnRate: 0
+  isSpecial: true
+  recruitmentLevel: 66
+  byte0B: 0
+- statsIndex: WANTED_LV
+  spawnRate: 10
+  isSpecial: false
+  recruitmentLevel: 0
+  byte0B: 0
