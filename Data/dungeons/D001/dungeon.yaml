@@ -73,3 +73,13 @@ pokemonStats:
   speed: 189
   strongFoe: false
   level: 66
+- creatureIndex: EEFI
+  xpYield: 15
+  hitPoints: 20
+  attack: 15
+  specialAttack: 15
+  defense: 15
+  specialDefense: 15
+  speed: 15
+  strongFoe: false
+  level: 5
