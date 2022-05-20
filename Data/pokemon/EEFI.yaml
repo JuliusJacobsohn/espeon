@@ -41,14 +41,14 @@ learnableTMs:
 - BROKENMACHINE_YOBI_10
 levelupLearnset:
 - level: 1
-  move: NENRIKI
+  move: TAMANAGE
 - level: 1
-  move: TEDASUKE
+  move: MISSILENEEDLE
 - level: 1
-  move: TAIATARI
+  move: ROCKBLAST
 - level: 1
-  move: SHIPPOWOFURU
-- level: 5
+  move: TANEMACHINEGUN
+- level: 6
   move: SUNAKAKE
 - level: 9
   move: TSUBURANAHITOMI
