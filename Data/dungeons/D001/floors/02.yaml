@@ -94,17 +94,17 @@ trapWeights:
   TRAP_AMBUSH_MAGGYO: 0
 spawns:
 - statsIndex: POPPO
-  spawnRate: 50
+  spawnRate: 5
   isSpecial: false
   recruitmentLevel: 5
   byte0B: 0
-- statsIndex: TAMATAMA
+- statsIndex: EEFI
   spawnRate: 50
   isSpecial: false
   recruitmentLevel: 5
   byte0B: 0
 - statsIndex: HIMANATTSU
-  spawnRate: 50
+  spawnRate: 5
   isSpecial: false
   recruitmentLevel: 5
   byte0B: 0
