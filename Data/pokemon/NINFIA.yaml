@@ -1,0 +1,144 @@
+﻿features: Male, Female, BaseForm, Active
+id: NINFIA
+pokedexNumber: 700
+taxon: 514
+ability1: ABILITY_MEROMEROBODY
+ability2: NONE
+hiddenAbility: ABILITY_FAIRYSKIN
+type1: FAIRY
+type2: NONE
+learnableTMs:
+- BROKENMACHINE_PSYCHOSHOCK
+- BROKENMACHINE_MEISOU
+- BROKENMACHINE_DOKUDOKU
+- BROKENMACHINE_MEZAMERUPOWER
+- BROKENMACHINE_NIHONBARE
+- BROKENMACHINE_HAKAIKOUSEN
+- BROKENMACHINE_HIKARINOKABE
+- BROKENMACHINE_MAMORU
+- BROKENMACHINE_AMAGOI
+- BROKENMACHINE_SHINPINOMAMORI
+- BROKENMACHINE_YATSUATARI
+- BROKENMACHINE_ONGAESHI
+- BROKENMACHINE_SHADOWBALL
+- BROKENMACHINE_KAGEBUNSHIN
+- BROKENMACHINE_REFLECTOR
+- BROKENMACHINE_KARAGENKI
+- BROKENMACHINE_NEMURU
+- BROKENMACHINE_MEROMERO
+- BROKENMACHINE_RINSHOU
+- BROKENMACHINE_ECHOVOICE
+- BROKENMACHINE_GIGAIMPACT
+- BROKENMACHINE_JIKOANJI
+- BROKENMACHINE_IBARU
+- BROKENMACHINE_NEGOTO
+- BROKENMACHINE_MIGAWARI
+- BROKENMACHINE_MAGICALSHINE
+- BROKENMACHINE_NAISHOBANASHI
+- BROKENMACHINE_YOBI_10
+levelupLearnset:
+- level: 1
+  move: YOUSEINOKAZE
+- level: 1
+  move: CHARMVOICE
+- level: 1
+  move: TEDASUKE
+- level: 1
+  move: TAIATARI
+- level: 1
+  move: SHIPPOWOFURU
+- level: 5
+  move: SUNAKAKE
+- level: 9
+  move: TSUBURANAHITOMI
+- level: 13
+  move: DENKOUSEKKA
+- level: 17
+  move: SPEEDSTAR
+- level: 20
+  move: DRAINKISS
+- level: 25
+  move: SKILLSWAP
+- level: 29
+  move: MISTFIELD
+- level: 33
+  move: HIKARINOKABE
+- level: 37
+  move: MOONFORCE
+- level: 41
+  move: TOTTEOKI
+- level: 45
+  move: JIKOANJI
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+- level: 0
+  move: NONE
+unknown62: 24
+unknown66: 957
+boostedRecruitRate: 107
+baseRecruitRate: -24
+unknown6E: 165
+unknown70: 165
+unknown72: 12
+baseHitPoints: 38
+baseAttack: 8
+baseSpecialAttack: 6
+baseDefense: 6
+baseSpecialDefense: 8
+baseSpeed: 8
+unknown80: 175
+evolvesFrom: IIBUI
+experienceEntry: 67
+unknown8B: 2
+unknown8C: 2
+unknown8D: 1
+unknown8E: 1
+unknown95: 1
+unknown96: 10
+size: 1
+megaRelatedProperty: 0
+someMinimumLevel: 1
+someMaximumLevel: 19
+recruitPrereq: ''
+megaEvolutions:
+  item1: NONE
+  item2: NONE
+evolutionBranches: []
+pokemonGraphicsDatabaseEntryIds:
+- 933
+- 0
+- 1017
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+campIndex: HENGENO_MORI
